@@ -1,0 +1,11 @@
+* {
+    background-color: #FF5964;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #E4FF1A;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 45px;
+}
